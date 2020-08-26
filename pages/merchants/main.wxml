@@ -1,0 +1,2 @@
+<import src="../../components/merchants$6722e97d"></import>
+<template is="merchants$6722e97d" data="{{...$root['0'],$root:$root}}"></template>

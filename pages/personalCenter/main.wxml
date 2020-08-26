@@ -1,0 +1,2 @@
+<import src="../../components/personalCenter$385c3d79"></import>
+<template is="personalCenter$385c3d79" data="{{...$root['0'],$root:$root}}"></template>
